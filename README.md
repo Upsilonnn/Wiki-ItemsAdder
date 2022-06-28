@@ -2,7 +2,7 @@
 description: This website helps you configuring and creating custom items for my plugin
 ---
 
-# 👋 Welcome
+# 👋 Bienvenu
 
 * [Patreon](http://patreon.com/lonedev)
 * [Ko-fi](http://a.devs.beer/kofi)
